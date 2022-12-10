@@ -4,8 +4,8 @@ App Dev:
 https://github.com/WellCrowKek/SUTT_AppD_T0
 https://github.com/WellCrowKek/CC_AppD_T1
 
-Backend:
-https://github.com/WellCrowKek/MirLeechX
+Backend: (ignore, irrelevant)
+~~https://github.com/WellCrowKek/MirLeechX~~
 (Old forked project)
 
 AI/ML:
