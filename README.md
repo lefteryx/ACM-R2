@@ -12,4 +12,4 @@ AI/ML:
 https://colab.research.google.com/drive/1pUsnIsWoL90lY4wUib9Cl1doLe2y2nS5?usp=sharing
 
 Competitive Coding:
-https://github.com/angler-wolf/CC_CompCoding_T1
+https://github.com/WellCrowKek/CC_Comp_Coding_T0
